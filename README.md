@@ -14,7 +14,7 @@
 
 ### 💡 _Me desenvuelvo muy bien en entorno FrontEnd, pero Desarrollo FullStack es a donde apunto 🎯_
 
-También estoy terminando un curso de desarrollo FullStack (Node.js) en Codo a Codo 4.0 donde aprendo mucho todas las clases!
+También estoy terminando un curso de desarrollo FullStack (Node.js) en Codo a Codo 4.0!
 ## 📫 Me podés encontrar en:
 - [Linkedin](https://www.linkedin.com/in/rial-gonzalo/)
 - [GitHub](https://github.com/r-gonzalo/)
